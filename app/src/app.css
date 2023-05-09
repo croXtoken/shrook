@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'shrek';
-    src: url('SHREK.TTF');
+    src: url('./SHREK.TTF');
 }
 
 .logo {
