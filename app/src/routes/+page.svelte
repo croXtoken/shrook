@@ -7,7 +7,7 @@
     <h2 class="text-white font-semibold mt-3">Cronos #1 token (don't google it.)</h2>
 </div>
 
-<img src="shrook.png" alt="Shrook is life. Shrook is love.">
+<img src="shrook.png" alt="Shrook is life. Shrook is love." class="mx-auto">
 
 <div class="flex flex-row gap-3 flex-wrap justify-center items-center mt-5">
 
