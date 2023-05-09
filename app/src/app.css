@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'shrek';
+    src: url('SHREK.TTF');
+}
+
+.logo {
+    font-family: shrek;
+}
+
+body {
+    background-color: #307305;
+}
